@@ -1,1 +1,6 @@
 /* CSS declarations go here */
+#login-dropdown-list {
+    position: absolute;
+    top: 30px;
+    left: -205px;
+}
